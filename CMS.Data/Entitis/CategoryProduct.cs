@@ -34,5 +34,6 @@ namespace CMS.Data.Entitis
 
         // Quan hệ: Một danh mục có nhiều sản phẩm
 
-        public virtual ICollection<Product>? Products{get; set;}
+        public virtual ICollection<Product>? Products { get; set; }
+    }
 }

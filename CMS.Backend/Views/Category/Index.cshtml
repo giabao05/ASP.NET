@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@model IEnumerable<CMS.Data.Entitis.Category>
+
+<div class="container mt-4">
+    <h2 class="text-primary text-center">DANH SÁCH DANH MỤC (DỮ LIỆU MẪU)</h2>
+    <table class="table table-hover table-bordered mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Tên danh mục</th>
+                <th>Mô tả</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td><strong>@item.Name</strong></td>
+                    <td>@item.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

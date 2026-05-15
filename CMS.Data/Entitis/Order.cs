@@ -42,4 +42,5 @@ namespace CMS.Data.Entitis
         {
             get; set;
         }
+    }
 }
