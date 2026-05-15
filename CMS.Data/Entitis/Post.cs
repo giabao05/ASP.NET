@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Sinh viên: Lê Gia Bảo
+ * Mã sinh viên: 2123110193
+ * Lớp: CCQ2311F
+ * Ngày tạo: 15/5/2026
+ * Mô tả: Thực hiện quản lí danh mục
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
