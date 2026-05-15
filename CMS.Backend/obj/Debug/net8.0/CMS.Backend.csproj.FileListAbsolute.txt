@@ -36,3 +36,4 @@ D:\BaoCMS_Solution\CMS.Backend\obj\Debug\net8.0\refint\CMS.Backend.dll
 D:\BaoCMS_Solution\CMS.Backend\obj\Debug\net8.0\CMS.Backend.pdb
 D:\BaoCMS_Solution\CMS.Backend\obj\Debug\net8.0\CMS.Backend.genruntimeconfig.cache
 D:\BaoCMS_Solution\CMS.Backend\obj\Debug\net8.0\ref\CMS.Backend.dll
+D:\BaoCMS_Solution\CMS.Backend\obj\Debug\net8.0\CMS.Backend.sourcelink.json

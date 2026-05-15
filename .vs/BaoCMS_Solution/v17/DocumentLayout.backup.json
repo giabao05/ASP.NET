@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\BaoCMS_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +54,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CMS.Backend\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T06:49:20.143Z",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Order.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Order.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Order.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:55:49.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\User.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\OrderDetail.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\OrderDetail.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\OrderDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:28:42.563Z",
+              "WhenOpened": "2026-05-15T07:56:55.002Z",
               "EditorCaption": ""
             },
             {
@@ -62,23 +102,112 @@
               "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Post.cs",
               "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Post.cs",
               "RelativeToolTip": "CMS.Data\\Entitis\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T06:21:44.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Product.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Product.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Product.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:54:22.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\User.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:28:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Customer.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Customer.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Customer.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:55:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryProduct.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\CategoryProduct.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\CategoryProduct.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\CategoryProduct.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\CategoryProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:53:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Category.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Category.cs",
               "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Category.cs",
               "RelativeToolTip": "CMS.Data\\Entitis\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T06:11:32.612Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:46:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CMS.Backend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:51:17.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T06:49:20.143Z"
             }
           ]
         }
