@@ -1,8 +1,58 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@* @{ *@
+@* ViewData["Title"] = "Home Page"; *@
+@* } *@
+
+@* <div class="text-center"> *@
+@* <h1 class="display-4">Welcome_Lê Gia Bảo_Buoi1</h1> *@
+@* <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
+@* </div> *@
+
+@model IEnumerable<CMS.Data.Entitis.Category>
+
+@{
+    ViewData["Title"] = "Trang Chủ - Buổi 3";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome_Lê Gia Bảo_Buoi1</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container text-center mt-5">
+    <h1 class="display-4 fw-bold text-primary">HỆ THỐNG CMS - BUỔI 3 hoàn chỉnh</h1>
+    <p class="lead text-muted">Báo cáo thực hành nâng cao của Lê Gia Bảo</p>
+    <hr class="my-4" style="width: 100px; border-top: 3px solid #0d6efd; margin: 0 auto;">
+
+    <div class="text-end mt-4 mb-2">
+        <a href="/Category/Create" class="btn btn-success fw-bold shadow-sm">
+            <i class="bi bi-plus-circle-fill"></i> Thêm Danh Mục Mới
+        </a>
+    </div>
+    <div class="row text-start mt-3">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm border-primary">
+                        <div class="card-body d-flex flex-column">
+                            <span class="badge bg-secondary align-self-start mb-2">ID: @item.Id</span>
+                            <h5 class="card-title fw-bold text-dark">@item.Name</h5>
+                            <p class="card-text text-muted flex-grow-1">@item.Description</p>
+
+                            <div class="mt-3 d-flex gap-2">
+                                <a href="/Post/Index/@item.Id" class="btn btn-primary btn-sm flex-grow-1 fw-bold">
+                                    Xem Bài Viết
+                                </a>
+                                <a href="/Category/Delete/@item.Id" onclick="return confirm('Bạn có chắc chắn muốn xóa danh mục này?')" class="btn btn-danger btn-sm fw-bold">
+                                    Xóa
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12 text-center">
+                <div class="alert alert-danger">Bảng dữ liệu trống hoặc lỗi kết nối!</div>
+            </div>
+        }
+    </div>
 </div>

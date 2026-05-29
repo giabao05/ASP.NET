@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CMS.Data.Entitis.Post>
+
+@{
+    ViewData["Title"] = "Danh sách bài viết";
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold">DANH SÁCH BÀI VIẾT</h2>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Thêm bài viết mới
+        </a>
+    </div>
+
+    <div class="row">
+        @foreach (var post in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <img src="@post.ImageUrl" class="card-img-top" alt="Ảnh bài viết" style="height: 200px; object-fit: cover;">
+
+                    <div class="card-body">
+                        <span class="badge bg-info text-dark mb-2">@post.Category?.Name</span>
+
+                        <h5 class="card-title fw-bold">@post.Title</h5>
+
+                        <p class="card-text text-muted small">
+                            @(post.Content?.Length > 100 ? post.Content.Substring(0, 100) + "..." : post.Content)
+                        </p>
+                    </div>
+
+                    <div class="card-footer bg-white border-0 pt-0 pb-3">
+                        <div class="d-flex gap-2">
+                            <a asp-action="Details" asp-route-id="@post.Id" class="btn btn-outline-primary btn-sm">Xem chi tiết</a>
+                            <a asp-action="Edit" asp-route-id="@post.Id" class="btn btn-outline-warning btn-sm">Sửa</a>
+                            <form asp-action="Delete" asp-route-id="@post.Id" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa?');">
+                                <button type="submit" class="btn btn-outline-danger btn-sm">Xóa</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

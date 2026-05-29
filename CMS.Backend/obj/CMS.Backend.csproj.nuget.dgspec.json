@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj": {}
+    "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj": {}
   },
   "projects": {
-    "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj": {
+    "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj",
         "projectName": "CMS.Backend",
-        "projectPath": "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BaoCMS_Solution\\CMS.Backend\\obj\\",
+        "projectPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj",
+        "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\BaoCMS_Solution\\CMS.Data\\CMS.Data.csproj": {
-                "projectPath": "D:\\BaoCMS_Solution\\CMS.Data\\CMS.Data.csproj"
+              "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj"
               }
             }
           }
@@ -48,12 +48,28 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.8, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.23, )"
@@ -78,24 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BaoCMS_Solution\\CMS.Data\\CMS.Data.csproj": {
+    "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaoCMS_Solution\\CMS.Data\\CMS.Data.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj",
         "projectName": "CMS.Data",
-        "projectPath": "D:\\BaoCMS_Solution\\CMS.Data\\CMS.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BaoCMS_Solution\\CMS.Data\\obj\\",
+        "projectPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj",
+        "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -122,11 +138,29 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -143,7 +177,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

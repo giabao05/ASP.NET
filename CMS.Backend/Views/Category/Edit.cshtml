@@ -1,0 +1,43 @@
+﻿@model CMS.Data.Entitis.Category
+
+@{
+    ViewData["Title"] = "Chỉnh sửa danh mục";
+}
+
+<div class="container mt-4" style="max-width: 600px;">
+    <div class="card shadow border-0 rounded-3">
+        <div class="card-header bg-warning text-dark py-3 text-center rounded-top">
+            <h4 class="mb-0 fw-bold"><i class="bi bi-pencil-square"></i> CHỈNH SỬA DANH MỤC</h4>
+        </div>
+        <div class="card-body p-4">
+            <form asp-action="Edit" asp-controller="Category" method="post">
+                @Html.AntiForgeryToken()
+
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-bold">Tên danh mục</label>
+                    <input asp-for="Name" class="form-control" required autocomplete="off" />
+                    <span asp-validation-for="Name" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label fw-bold">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="Description" class="text-danger small"></span>
+                </div>
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end pt-2">
+                    <a asp-action="Index" class="btn btn-outline-secondary px-4 me-md-2">Hủy</a>
+                    <button type="submit" class="btn btn-warning px-5 fw-bold text-dark">Lưu thay đổi</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

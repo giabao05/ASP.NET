@@ -16,15 +16,14 @@ using System.Threading.Tasks;
 
 namespace CMS.Data.Entitis
 {
-   public class Category
+    public class Category
     {
-            public int Id { get; set; }
-        public string Name { get; set; }//Tên danh mục
-        public string Description { get; set; } 
-        
-        //Quan hệ: Một danh mục có nhiều bài viết
-        public virtual ICollection<Post> Posts { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string? Description { get; set; }
 
-
+        // THAY ĐỔI DÒNG NÀY:
+        // Thêm dấu ? để cho phép danh sách bài viết là null (trống)
+        public virtual ICollection<Post>? Posts { get; set; }
     }
 }

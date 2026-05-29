@@ -1,62 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BaoCMS_Solution\\",
+  "WorkspaceRootPath": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\cms.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\cms.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529063059_InitFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS.Data\\Migrations\\20260529063059_InitFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\cms.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\cms.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062327_InitFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS.Data\\Migrations\\20260529062327_InitFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062052_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMS.Data\\Migrations\\20260529062052_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\baocms_solution\\cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\baocms_solution\\cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CC2372-858F-4819-B9ED-1D84EA8BAC23}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entitis\\categoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\cms.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\cms.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|d:\\asp.net\\legiabao\\asp.net\\cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452238F5-CCA1-4D24-B28C-7AE626E1C6F8}|CMS.Backend\\CMS.Backend.csproj|solutionrelative:cms.backend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,131 +146,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:18:10.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "CMS.Backend\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T08:59:46.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CMS.Backend",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj",
-              "RelativeDocumentMoniker": "CMS.Backend\\CMS.Backend.csproj",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\CMS.Backend.csproj",
-              "RelativeToolTip": "CMS.Backend\\CMS.Backend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-15T08:43:08.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CMS.Backend\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CMS.Backend\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CMS.Backend\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T08:51:03.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryProduct.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\CategoryProduct.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\CategoryProduct.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\CategoryProduct.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\CategoryProduct.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T08:33:17.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Order.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Order.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Order.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\Order.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA1wC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T08:36:20.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Post.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Post.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Post.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:21:44.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\OrderDetail.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\OrderDetail.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T08:37:10.472Z",
+              "WhenOpened": "2026-05-22T08:49:38.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CMS.Data.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj",
+              "RelativeDocumentMoniker": "CMS.Data\\CMS.Data.csproj",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\CMS.Data.csproj",
+              "RelativeToolTip": "CMS.Data\\CMS.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-22T06:34:57.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Product.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Product.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Product.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Product.cs",
               "RelativeToolTip": "CMS.Data\\Entitis\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T08:34:47.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260529062327_InitFinal.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062327_InitFinal.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Migrations\\20260529062327_InitFinal.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062327_InitFinal.cs",
+              "RelativeToolTip": "CMS.Data\\Migrations\\20260529062327_InitFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:23:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\User.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entitis\\User.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\User.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\User.cs",
               "RelativeToolTip": "CMS.Data\\Entitis\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,66 +227,344 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Customer.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Customer.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Customer.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:41:31.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260529062052_Init.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062052_Init.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Migrations\\20260529062052_Init.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529062052_Init.cs",
+              "RelativeToolTip": "CMS.Data\\Migrations\\20260529062052_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T08:35:33.249Z",
+              "WhenOpened": "2026-05-29T06:20:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Category.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Category.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Category.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Category.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:11:32.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CMS.Backend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T08:59:26.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260529063059_InitFinal.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529063059_InitFinal.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Migrations\\20260529063059_InitFinal.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Migrations\\20260529063059_InitFinal.cs",
+              "RelativeToolTip": "CMS.Data\\Migrations\\20260529063059_InitFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:30:59.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Category.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Category.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Data\\Entitis\\Category.cs",
-              "RelativeToolTip": "CMS.Data\\Entitis\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Post.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Post.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Post.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Post.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:11:32.612Z",
+              "WhenOpened": "2026-05-15T06:21:44.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "CMS.Backend\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\appsettings.json",
+              "RelativeToolTip": "CMS.Backend\\appsettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T06:51:59.778Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T04:26:32.274Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T07:46:52.389Z",
-              "EditorCaption": ""
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CMS.Backend\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwF0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:51:03.348Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "CMS.Backend\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "CMS.Backend\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:51:17.03Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T09:13:15.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:46:52.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CMS.Backend\\appsettings.Development.json",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\appsettings.Development.json",
+              "RelativeToolTip": "CMS.Backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T06:29:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Program.cs",
+              "RelativeToolTip": "CMS.Backend\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:56:44.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:59:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:46:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvywAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T09:08:19.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Post\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:16:16.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:25:27.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:28:48.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CMS.Backend\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CMS.Backend\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T02:00:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\OrderDetail.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\OrderDetail.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\OrderDetail.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:37:10.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CMS.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:36:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CMS.Backend\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\BaoCMS_Solution\\CMS.Backend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CMS.Backend\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-15T06:49:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Order.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Order.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Order.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:36:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Customer.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\Customer.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\Customer.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\Customer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:35:33.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryProduct.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\CategoryProduct.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entitis\\CategoryProduct.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Data\\Entitis\\CategoryProduct.cs",
+              "RelativeToolTip": "CMS.Data\\Entitis\\CategoryProduct.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:33:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CMS.Backend.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj",
+              "RelativeDocumentMoniker": "CMS.Backend\\CMS.Backend.csproj",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\CMS.Backend.csproj",
+              "RelativeToolTip": "CMS.Backend\\CMS.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T08:43:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CMS.Backend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\LeGiaBao\\ASP.NET\\CMS.Backend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CMS.Backend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:51:17.03Z"
             }
           ]
         }

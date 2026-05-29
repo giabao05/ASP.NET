@@ -1,28 +1,51 @@
-﻿
+﻿@model IEnumerable<CMS.Data.Entitis.Category>
+
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Quản lý danh mục";
 }
 
-<h1>Index</h1>
-@model IEnumerable<CMS.Data.Entitis.Category>
-
 <div class="container mt-4">
-    <h2 class="text-primary text-center">DANH SÁCH DANH MỤC (DỮ LIỆU MẪU)</h2>
-    <table class="table table-hover table-bordered mt-3">
-        <thead class="table-dark">
+    <h2 class="mb-4">DANH SÁCH DANH MỤC (DỮ LIỆU THẬT LẤY TỪ DATABASE)</h2>
+
+    <div class="mb-3">
+        <a asp-controller="Category" asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Thêm danh mục mới
+        </a>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead class="table-light">
             <tr>
                 <th>ID</th>
                 <th>Tên danh mục</th>
                 <th>Mô tả</th>
+                <th>Thao tác</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+            @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+
+                            <form asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id" method="post"
+                                  style="display:inline;" onsubmit="return confirm('Bạn có chắc chắn muốn xóa?');">
+                                <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
             {
                 <tr>
-                    <td>@item.Id</td>
-                    <td><strong>@item.Name</strong></td>
-                    <td>@item.Description</td>
+                    <td colspan="4" class="text-center">Chưa có dữ liệu danh mục nào.</td>
                 </tr>
             }
         </tbody>
