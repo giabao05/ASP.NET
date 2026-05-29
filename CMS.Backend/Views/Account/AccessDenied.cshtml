@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+    ViewData["Title"] = "Từ chối truy cập";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center p-5 bg-white shadow rounded">
+            <h1 class="text-danger fw-bold display-4">
+                <i class="bi bi-shield-lock-fill"></i> 403
+            </h1>
+            <h3 class="mb-3">TỪ CHỐI TRUY CẬP</h3>
+            <p class="lead text-muted">
+                Xin chào <strong>@User.Identity.Name</strong>,<br>
+                Bạn không có quyền hạn Admin để thực hiện thao tác này. Vui lòng liên hệ quản trị viên để được cấp quyền.
+            </p>z
+            <div class="mt-4">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary px-4 py-2">
+                    <i class="bi bi-house-door"></i> Về trang chủ
+                </a>
+                <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-outline-danger px-4 py-2">
+                        <i class="bi bi-box-arrow-right"></i> Đăng xuất
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

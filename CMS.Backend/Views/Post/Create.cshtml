@@ -1,5 +1,7 @@
 ﻿@model CMS.Data.Entitis.Post
-
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
 @{
     ViewData["Title"] = "Đăng bài viết mới";
     var categories = ViewBag.CategoryList as List<CMS.Data.Entitis.Category>;
