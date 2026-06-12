@@ -748,3 +748,8 @@ D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\obj\Debug\net8.0\refint\CMS.Backend.dll
 D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\obj\Debug\net8.0\CMS.Backend.pdb
 D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\obj\Debug\net8.0\CMS.Backend.genruntimeconfig.cache
 D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\obj\Debug\net8.0\ref\CMS.Backend.dll
+D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET\LeGiaBao\ASP.NET\CMS.Backend\obj\Debug\net8.0\CMS.Backend.MvcApplicationPartsAssemblyInfo.cs

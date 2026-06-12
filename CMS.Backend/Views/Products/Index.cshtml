@@ -1,0 +1,68 @@
+﻿@model IEnumerable<CMS.Data.Entitis.Product>
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<h1>Danh sách sản phẩm</h1>
+
+<p>
+    <a asp-controller="Products" asp-action="Create" class="btn btn-primary">Thêm sản phẩm mới</a>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th style="width: 80px;">Hình ảnh</th>
+                <th>Tên sản phẩm</th>
+                <th>Danh mục</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th style="width: 180px;">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImageUrl))
+                        {
+                            <img src="@item.ImageUrl"
+                                 alt="@item.Name"
+                                 style="width: 70px; height: 70px; object-fit: cover; border-radius: 5px;" />
+                        }
+                        else
+                        {
+                            <div style="width: 70px; height: 70px; background-color: #f0f0f0; border-radius: 5px;
+                                                    display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 12px;">
+                                No Image
+                            </div>
+                        }
+                    </td>
+                    <td><strong>@item.Name</strong></td>
+                    <td>@item.CategoryProduct?.Name</td>
+                    <td>@item.Price.ToString("N0") VNĐ</td>
+                    <td>
+                        <span class="badge bg-@(item.StockQuantity > 0 ? "success" : "danger")">
+                            @item.StockQuantity
+                        </span>
+                    </td>
+                    <td>
+                        <a asp-controller="Products" asp-action="Edit" asp-route-id="@item.Id"
+                           class="btn btn-sm btn-warning">Sửa</a>
+                        <a asp-controller="Products" asp-action="Delete" asp-route-id="@item.Id"
+                           class="btn btn-sm btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">
+        <h5>Chưa có sản phẩm nào trong cơ sở dữ liệu.</h5>
+    </div>
+}

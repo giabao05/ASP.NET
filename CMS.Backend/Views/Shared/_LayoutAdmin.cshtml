@@ -43,8 +43,19 @@
                 </div>
                 <div class="pt-3">
                     <a asp-controller="Home" asp-action="Index"><i class="bi bi-speedometer2 me-2"></i> Bảng điều khiển</a>
-                    <a asp-controller="Category" asp-action="Index"><i class="bi bi-grid me-2"></i> Quản lý Danh mục</a>
+
+                    <h6 class="text-muted ps-3 mt-3 text-uppercase small fw-bold">Nội dung</h6>
+                    <a asp-controller="Category" asp-action="Index"><i class="bi bi-grid me-2"></i> Danh mục bài viết</a>
                     <a asp-controller="Post" asp-action="Index"><i class="bi bi-file-earmark-post me-2"></i> Quản lý Bài viết</a>
+
+                    <h6 class="text-muted ps-3 mt-3 text-uppercase small fw-bold">Sản phẩm & Bán hàng</h6>
+                    <a asp-controller="CategoryProducts" asp-action="Index"><i class="bi bi-tags me-2"></i> Danh mục sản phẩm</a>
+                    <a asp-controller="Products" asp-action="Index"><i class="bi bi-box-seam me-2"></i> Quản lý Sản phẩm</a>
+                    <a asp-controller="Orders" asp-action="Index"><i class="bi bi-cart-check me-2"></i> Quản lý Đơn hàng</a>
+                    <a asp-controller="OrderDetails" asp-action="Index"><i class="bi bi-receipt me-2"></i> Chi tiết đơn hàng</a>
+                    <a asp-controller="Customers" asp-action="Index"><i class="bi bi-person-badge me-2"></i> Khách hàng</a>
+
+                    <h6 class="text-muted ps-3 mt-3 text-uppercase small fw-bold">Hệ thống</h6>
                     <a asp-controller="User" asp-action="Index"><i class="bi bi-people me-2"></i> Quản lý Thành viên</a>
                 </div>
             </div>
